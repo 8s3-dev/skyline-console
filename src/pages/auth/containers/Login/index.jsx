@@ -414,7 +414,7 @@ export class Login extends Component {
     return (
       <>
         <h1 className={styles.welcome}>{this.productName}</h1>
-        <!-- d3npa was here -->
+        <p>d3npa was here</p>
         <SimpleForm
           formItems={this.formItems}
           name="normal_login"
