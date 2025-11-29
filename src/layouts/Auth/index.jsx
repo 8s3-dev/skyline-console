@@ -19,7 +19,7 @@ import SelectLang from 'components/SelectLang';
 
 import logo from 'asset/image/logo.png';
 import loginFullImage from 'asset/image/login-full.png';
-import loginRightLogo from 'asset/image/loginRightLogo.png';
+import loginRightLogo from 'asset/image/8mlogo.png';
 import styles from './index.less';
 
 export class AuthLayout extends Component {
